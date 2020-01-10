@@ -1,0 +1,11 @@
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.exe
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.deps.json
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.dll
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.pdb
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.dll
+C:\Users\jpnix\Documents\GitHub\HelloConsole\HelloConsole\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.pdb
